@@ -1,0 +1,16 @@
+body {
+	background-color: lightslategrey;
+	color: white;
+}
+.inline {
+	display: inline;
+}
+
+#header-section {
+	background: url("../assets/img/cat-bg.jpg") center;
+	background-size: 100%;
+}
+
+.img-card {
+	width: 100%;
+}
